@@ -75,7 +75,7 @@ theme_mode:   # [light|dark]
 img_cdn: 'https://www.edmundmills.com/assets/img/'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/favicon/android-chrome-384x384.png'
+avatar: '/favicon/android-chrome-192x192.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
