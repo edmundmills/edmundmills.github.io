@@ -2,13 +2,8 @@
 title: "Free your heart from climate change penitence and impotence"
 date: "2020-09-28"
 categories: 
-  - "essays"
-tags: 
-  - "climate-change"
-  - "ethics"
-  - "just-transition"
-  - "paradigm-change"
-  - "practice"
+  - "Personal Writing"
+tags:
 image: 
   src: "../../_images/tree-8810_1920-e1601314085450-1536x806-copy-e1602226065909.jpg"
   width: 1024

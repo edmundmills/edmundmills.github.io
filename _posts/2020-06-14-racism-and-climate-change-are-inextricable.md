@@ -2,11 +2,8 @@
 title: "Racism and climate change are inextricable"
 date: "2020-06-14"
 categories: 
-  - "reflections"
-tags: 
-  - "climate-change"
-  - "protest"
-  - "racial-justice"
+  - "Personal Writing"
+tags:
 image: 
   src: "../../_images/tree-3315529_1920-e1601229007107.jpg"
   width: 1024

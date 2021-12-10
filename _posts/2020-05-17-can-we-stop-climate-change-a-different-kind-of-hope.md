@@ -2,10 +2,8 @@
 title: "Can we stop Climate Change? A different kind of hope"
 date: "2020-05-17"
 categories: 
-  - "essays"
+  - "Personal Writing"
 tags: 
-  - "climate-change"
-  - "hope"
 image: 
   src: "../../_images/sunrise-1670979_1920-e1601228860462.jpg"
   width: 1024

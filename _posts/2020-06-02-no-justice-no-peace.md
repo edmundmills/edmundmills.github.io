@@ -2,11 +2,8 @@
 title: "No Justice, No Peace"
 date: "2020-06-02"
 categories: 
-  - "reflections"
+  - "Personal Writing"
 tags: 
-  - "collective-action"
-  - "protest"
-  - "racial-justice"
 image: 
   src: "../../_images/landscape-4474345_1920.jpg"
   width: 1024

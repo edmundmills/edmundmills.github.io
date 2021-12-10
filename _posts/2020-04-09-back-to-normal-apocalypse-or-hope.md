@@ -2,11 +2,8 @@
 title: "Back to Normal, Apocalypse, or Hope"
 date: "2020-04-09"
 categories: 
-  - "essays"
+  - "Personal Writing"
 tags: 
-  - "climate-change"
-  - "coronavirus"
-  - "hope"
 image: 
   src: "../../_images/lost-places-1929423-1024x683-copy.jpg"
   width: 1024

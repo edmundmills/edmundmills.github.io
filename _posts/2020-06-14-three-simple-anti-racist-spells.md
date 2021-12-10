@@ -2,10 +2,8 @@
 title: "Three simple anti-racist spells"
 date: "2020-06-14"
 categories: 
-  - "practice"
+  - "Personal Writing"
 tags: 
-  - "practice"
-  - "racial-justice"
 image: 
   src: "../../_images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public../../_images_803cff20-0d41-4622-8ef1-f1cc703314b4_1920x1002.jpeg"
   width: 1024

@@ -2,11 +2,8 @@
 title: "Coronavirus and the Climate Crisis: Reclaiming our Future"
 date: "2020-03-19"
 categories: 
-  - "essays"
+  - "Personal Writing"
 tags: 
-  - "climate-change"
-  - "collective-action"
-  - "coronavirus"
 image: 
   src: "../../_images/astronomy-1866822-1024x684-copy-e1602223009466.jpg"
   width: 1024
