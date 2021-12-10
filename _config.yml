@@ -26,7 +26,7 @@ description: >-                        # used by seo meta and the atom feed
   Writing about Machine Learning and AI alignment
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://edmundmills.github.io'
+url: 'edmundmills.github.io'
 
 github:
   username: edmundmills             # change to your github username
@@ -39,9 +39,8 @@ social:
   email: edmund@edmundmills.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/edmundmills      # change to your github homepage
-    # Uncomment below to add more social links
-    - https://www.linkedin.com/in/username
+    - https://github.com/edmundmills
+    - https://www.linkedin.com/in/edmundmmills
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
