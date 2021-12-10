@@ -9,7 +9,10 @@ tags:
   - "gratitude"
   - "love"
   - "reciprocity"
-coverImage: "fjord-3663012_1920-e1605208547475.jpg"
+image: 
+  src: "_images/fjord-3663012_1920-e1605208547475.jpg"
+  width: 1024
+  height: 683
 ---
 
 https://edmundmills.com/wp-content/uploads/2020/11/Practicing-love-when-the-future-is-uncertain.mp3

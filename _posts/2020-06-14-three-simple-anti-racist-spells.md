@@ -6,7 +6,10 @@ categories:
 tags: 
   - "practice"
   - "racial-justice"
-coverImage: "https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_803cff20-0d41-4622-8ef1-f1cc703314b4_1920x1002.jpeg"
+image: 
+  src: "_images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_803cff20-0d41-4622-8ef1-f1cc703314b4_1920x1002.jpeg"
+  width: 1024
+  height: 683
 ---
 
 I hope whatever resolve you have to work for racial justice is still alive and well in you. We may be near the time when the flash of inspiration fades and we transition to steady, patient work. Like me, you may be all too familiar with the cycle of waxing and waning inspiration, played out in ways large and small, across areas of life. How do you fold these cycles into steady resolve and patient effort? One way is to establish conditions that carry us forward, independent of our effort or inspiration. I like to think of as magic: the channeling of the energy of inspiration into transmuting the blueprint that shapes our life’s unfolding. In other words, working through changing underlying conditions rather than discrete and direct actions.

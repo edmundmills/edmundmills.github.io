@@ -7,7 +7,10 @@ tags:
   - "collective-action"
   - "protest"
   - "racial-justice"
-coverImage: "landscape-4474345_1920.jpg"
+image: 
+  src: "_images/landscape-4474345_1920.jpg"
+  width: 1024
+  height: 683
 ---
 
 Last night I wrote these words to myself:

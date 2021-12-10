@@ -7,7 +7,10 @@ tags:
   - "climate-change"
   - "collective-action"
   - "coronavirus"
-coverImage: "astronomy-1866822-1024x684-copy-e1602223009466.jpg"
+image: 
+  src: "_images/astronomy-1866822-1024x684-copy-e1602223009466.jpg"
+  width: 1024
+  height: 684
 ---
 
 In the midst of this widespread disruption of business as usual, it may feel odd to think of the climate crisis. We are entering something new and unprecedented in our lifetimes, and we are rightly focused on adapting to our new situation. But now is a critical time to think about the climate crisis, for a window has appeared.

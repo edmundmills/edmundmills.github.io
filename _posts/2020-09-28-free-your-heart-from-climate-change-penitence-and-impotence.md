@@ -9,7 +9,10 @@ tags:
   - "just-transition"
   - "paradigm-change"
   - "practice"
-coverImage: "tree-8810_1920-e1601314085450-1536x806-copy-e1602226065909.jpg"
+image: 
+  src: "_images/tree-8810_1920-e1601314085450-1536x806-copy-e1602226065909.jpg"
+  width: 1024
+  height: 683
 ---
 
 https://edmundmills.com/wp-content/uploads/2020/10/Free-your-heart-from-climate-penitence-and-impotence.mp3

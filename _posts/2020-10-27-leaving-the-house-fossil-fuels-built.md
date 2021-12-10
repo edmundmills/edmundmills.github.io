@@ -7,7 +7,10 @@ tags:
   - "climate-change"
   - "colonialism"
   - "paradigm-change"
-coverImage: "factory-191263_1920-e1603775625862.jpg"
+image: 
+  src: "_images/factory-191263_1920-e1603775625862.jpg"
+  width: 1024
+  height: 683
 ---
 
 https://edmundmills.com/wp-content/uploads/2020/10/Its-time-to-leave-the-palace-fossil-fuels-built.mp3

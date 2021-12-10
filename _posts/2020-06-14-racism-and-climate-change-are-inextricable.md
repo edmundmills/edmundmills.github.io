@@ -7,7 +7,10 @@ tags:
   - "climate-change"
   - "protest"
   - "racial-justice"
-coverImage: "tree-3315529_1920-e1601229007107.jpg"
+image: 
+  src: "_images/tree-3315529_1920-e1601229007107.jpg"
+  width: 1024
+  height: 683
 ---
 
 One of the things that’s becoming clear to me these days is how racism is linked not only to the impacts of climate change, but also to our ability to respond to it.

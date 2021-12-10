@@ -7,7 +7,10 @@ tags:
   - "climate-change"
   - "coronavirus"
   - "hope"
-coverImage: "lost-places-1929423-1024x683-copy.jpg"
+image: 
+  src: "_images/lost-places-1929423-1024x683-copy.jpg"
+  width: 1024
+  height: 683
 ---
 
 Let’s let go of hoping that things will go back to normal. I don’t mean that we’re doomed to continue with how things are now, whether that’s being in lockdown, coping with a pandemic, or experiencing economic precarity. Rather, this moment of disruption has opened a tremendous range of possible futures, none of which is guaranteed. The new possibilities range from hopeful to dismal. We needn't be passive victims—our choices influence the course of events. The fluidity of our situation allows us to imagine a new future and bring it into being.
