@@ -26,7 +26,7 @@ description: >-                        # used by seo meta and the atom feed
   Writing about Machine Learning and AI alignment
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: '/edmundmills.github.io'
+url: 'https://edmundmills.github.io'
 
 github:
   username: edmundmills             # change to your github username
