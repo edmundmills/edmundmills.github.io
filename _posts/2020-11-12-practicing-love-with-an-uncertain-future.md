@@ -5,12 +5,10 @@ categories:
   - "Personal Writing"
 tags: 
 image: 
-  src: "fjord-3663012_1920-e1605208547475.jpg"
+  src: "/fjord-3663012_1920-e1605208547475.jpg"
   width: 1024
   height: 683
 ---
-
-https://edmundmills.com/wp-content/uploads/2020/11/Practicing-love-when-the-future-is-uncertain.mp3
 
 Dark clouds gather in the future and fog obscures our path. The days when the future seemed sunny and idyllic have passed. Occasionally, rays of sunlight shine through—promising news of a COVID vaccine, for example, or our recent election results. Have we, as we compulsively doom-scroll our excruciating national story, become so addicted to doom that good news hardly registers? Or is there simply so much darkness that these glimmers of light offer little hope?
 

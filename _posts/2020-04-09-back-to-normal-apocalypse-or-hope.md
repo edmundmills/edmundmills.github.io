@@ -5,7 +5,7 @@ categories:
   - "Personal Writing"
 tags: 
 image: 
-  src: "lost-places-1929423-1024x683-copy.jpg"
+  src: "/lost-places-1929423-1024x683-copy.jpg"
   width: 1024
   height: 683
 ---

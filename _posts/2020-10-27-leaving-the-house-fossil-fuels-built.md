@@ -5,12 +5,10 @@ categories:
   - "Personal Writing"
 tags: 
 image: 
-  src: "factory-191263_1920-e1603775625862.jpg"
+  src: "/factory-191263_1920-e1603775625862.jpg"
   width: 1024
   height: 683
 ---
-
-https://edmundmills.com/wp-content/uploads/2020/10/Its-time-to-leave-the-palace-fossil-fuels-built.mp3
 
 Climate change has ruptured the dining room wall of our palace, and is beginning to intrude further and further. We eat our breakfast, ignoring it. It’s been comfortable here, and we've been provided for materially. We’ve liked that as time’s gone on, it’s gotten more and more comfortable. We’ve imagined that, some day, everyone could live here in comfort and harmony. But it’s becoming increasingly difficult to ignore that the future of this palace, a society organized around fossil fuel intensive ways of life, the product of European-rooted civilization, colonialism, and extractive capitalism, is one of ruins.
 
