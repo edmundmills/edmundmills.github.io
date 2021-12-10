@@ -5,7 +5,7 @@ categories:
   - "Personal Writing"
 tags: 
 image: 
-  src: "9781405541121-e1607453607809.jpg"
+  src: "/9781405541121-e1607453607809.jpg"
   width: 1024
   height: 683
 hidden: true
