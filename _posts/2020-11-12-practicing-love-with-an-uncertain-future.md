@@ -2,13 +2,8 @@
 title: "Practicing love when the future is uncertain"
 date: "2020-11-12"
 categories: 
-  - "essays"
+  - "Personal Writing"
 tags: 
-  - "climate-anxiety"
-  - "climate-change"
-  - "gratitude"
-  - "love"
-  - "reciprocity"
 image: 
   src: "../../_images/fjord-3663012_1920-e1605208547475.jpg"
   width: 1024

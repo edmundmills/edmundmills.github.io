@@ -2,12 +2,8 @@
 title: "The Ministry for the Future: a hopeful vision for navigating our dire situation"
 date: "2020-12-08"
 categories: 
-  - "book-reviews"
+  - "Personal Writing"
 tags: 
-  - "climate-change"
-  - "geo-engineering"
-  - "hope"
-  - "vision"
 image: 
   src: "9781405541121-e1607453607809.jpg"
 ---

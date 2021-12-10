@@ -2,11 +2,8 @@
 title: "It's time to leave the palace that fossil fuels built"
 date: "2020-10-27"
 categories: 
-  - "essays"
+  - "Personal Writing"
 tags: 
-  - "climate-change"
-  - "colonialism"
-  - "paradigm-change"
 image: 
   src: "../../_images/factory-191263_1920-e1603775625862.jpg"
   width: 1024
