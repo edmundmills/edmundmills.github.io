@@ -7,7 +7,7 @@ tags:
   - "climate-change"
   - "hope"
 image: 
-  src: "_images/sunrise-1670979_1920-e1601228860462.jpg"
+  src: "../../_images/sunrise-1670979_1920-e1601228860462.jpg"
   width: 1024
   height: 683
 ---

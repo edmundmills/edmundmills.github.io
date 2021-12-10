@@ -8,7 +8,7 @@ tags:
   - "collective-action"
   - "coronavirus"
 image: 
-  src: "_images/astronomy-1866822-1024x684-copy-e1602223009466.jpg"
+  src: "../../_images/astronomy-1866822-1024x684-copy-e1602223009466.jpg"
   width: 1024
   height: 684
 ---

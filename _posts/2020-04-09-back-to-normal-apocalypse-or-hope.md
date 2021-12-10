@@ -8,7 +8,7 @@ tags:
   - "coronavirus"
   - "hope"
 image: 
-  src: "_images/lost-places-1929423-1024x683-copy.jpg"
+  src: "../../_images/lost-places-1929423-1024x683-copy.jpg"
   width: 1024
   height: 683
 ---

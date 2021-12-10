@@ -10,7 +10,7 @@ tags:
   - "paradigm-change"
   - "practice"
 image: 
-  src: "_images/tree-8810_1920-e1601314085450-1536x806-copy-e1602226065909.jpg"
+  src: "../../_images/tree-8810_1920-e1601314085450-1536x806-copy-e1602226065909.jpg"
   width: 1024
   height: 683
 ---
