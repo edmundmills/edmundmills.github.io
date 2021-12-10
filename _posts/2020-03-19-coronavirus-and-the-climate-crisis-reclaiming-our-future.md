@@ -5,7 +5,7 @@ categories:
   - "Personal Writing"
 tags: 
 image: 
-  src: "../../_images/astronomy-1866822-1024x684-copy-e1602223009466.jpg"
+  src: "astronomy-1866822-1024x684-copy-e1602223009466.jpg"
   width: 1024
   height: 684
 ---

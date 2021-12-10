@@ -5,7 +5,7 @@ categories:
   - "Personal Writing"
 tags:
 image: 
-  src: "../../_images/tree-3315529_1920-e1601229007107.jpg"
+  src: "tree-3315529_1920-e1601229007107.jpg"
   width: 1024
   height: 683
 ---

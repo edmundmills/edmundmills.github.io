@@ -5,7 +5,7 @@ categories:
   - "Personal Writing"
 tags: 
 image: 
-  src: "../../_images/landscape-4474345_1920.jpg"
+  src: "landscape-4474345_1920.jpg"
   width: 1024
   height: 683
 ---

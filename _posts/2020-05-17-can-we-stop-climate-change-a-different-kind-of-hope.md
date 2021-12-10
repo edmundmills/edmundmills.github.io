@@ -5,7 +5,7 @@ categories:
   - "Personal Writing"
 tags: 
 image: 
-  src: "../../_images/sunrise-1670979_1920-e1601228860462.jpg"
+  src: "sunrise-1670979_1920-e1601228860462.jpg"
   width: 1024
   height: 683
 ---

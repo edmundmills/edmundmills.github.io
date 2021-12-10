@@ -5,7 +5,7 @@ categories:
   - "Personal Writing"
 tags: 
 image: 
-  src: "../../_images/factory-191263_1920-e1603775625862.jpg"
+  src: "factory-191263_1920-e1603775625862.jpg"
   width: 1024
   height: 683
 ---

@@ -5,7 +5,7 @@ categories:
   - "Personal Writing"
 tags: 
 image: 
-  src: "../../_images/fjord-3663012_1920-e1605208547475.jpg"
+  src: "fjord-3663012_1920-e1605208547475.jpg"
   width: 1024
   height: 683
 ---
