@@ -1,13 +1,15 @@
 ---
 title: "Can we stop Climate Change? A different kind of hope"
 date: "2020-05-17"
+show_date: true
 categories: 
   - "Personal Writing"
 tags: 
-image: 
-  src: "/sunrise-1670979_1920-e1601228860462.jpg"
+header:
+  overlay_image: "assets/images/sunrise-1670979_1920-e1601228860462.jpg"
   width: 1024
   height: 683
+layout: single
 ---
 
 One of the questions that’s been haunting me is ‘will we succeed?’ That is, will we succeed at stopping climate change? In my social world, this isn’t an acceptable question. It brings up the possibility that we might not, the overwhelming scale of that catastrophe, our grief, our feelings of helplessness, the pain of our complicity. It’s a difficult question to open to. But I think it’s essential, both for our personal lives and our collective response.

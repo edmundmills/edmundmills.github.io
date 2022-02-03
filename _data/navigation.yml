@@ -1,0 +1,9 @@
+main:
+  - title: About
+    url: /about/
+  - title: Portfolio
+    url: /portfolio/
+  - title: Machine Learning
+    url: /machine_learning/
+  - title: Personal Writing
+    url: /personal_writing/

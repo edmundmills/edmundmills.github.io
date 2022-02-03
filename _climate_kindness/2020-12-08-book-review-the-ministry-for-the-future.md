@@ -1,13 +1,15 @@
 ---
 title: "The Ministry for the Future: a hopeful vision for navigating our dire situation"
 date: "2020-12-08"
+show_date: true
 categories: 
   - "Personal Writing"
 tags: 
-image: 
-  src: "/9781405541121-e1607453607809.jpg"
+header:
+  overlay_image: "assets/images/9781405541121-e1607453607809.jpg"
   width: 1024
   height: 683
+layout: single
 ---
 
 The Ministry for the Future, a new speculative fiction novel by Kim Stanley Robinson, is a remarkable and urgently needed book. It portrays a near future that is dark enough to be plausible, consistent with the destruction that science tells us climate change will bring. Yet it tells a sweeping story of how humanity might navigate the coming chaos and tragedy, prevent the most catastrophic outcomes, and even transform our systems for the better. It presents a realistic future worth working hard for. By doing so, it’s managed to kindle more hope in me. And it’s a grounded, determined hope, not the draining hope of desperation.

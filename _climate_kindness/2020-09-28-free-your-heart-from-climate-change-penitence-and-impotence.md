@@ -1,13 +1,15 @@
 ---
 title: "Free your heart from climate change penitence and impotence"
 date: "2020-09-28"
+show_date: true
 categories: 
   - "Personal Writing"
 tags:
-image: 
-  src: "/tree-8810_1920-e1601314085450-1536x806-copy-e1602226065909.jpg"
+header:
+  overlay_image: "assets/images/tree-8810_1920-e1601314085450-1536x806-copy-e1602226065909.jpg"
   width: 1024
   height: 683
+layout: single
 ---
 
 In the shadow of the immense climate crisis, what difference could it possibly make to bike to work or eat less meat? The mismatch between what we’re being asked to do and the size of the problem has created disillusionment, as changes in personal lifestyle like these have been promoted as a primary way to prevent climate change.1 It’s natural to ask: how are my tiny choices going to do anything about our civilization’s fundamental energy system? What good is reducing the size of my carbon footprint when it's just a billionth of our collective carbon emissions?

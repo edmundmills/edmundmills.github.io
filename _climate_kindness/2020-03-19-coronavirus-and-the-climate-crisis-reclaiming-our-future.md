@@ -1,13 +1,13 @@
 ---
 title: "Coronavirus and the Climate Crisis: Reclaiming our Future"
 date: "2020-03-19"
+show_date: true
 categories: 
   - "Personal Writing"
 tags: 
-image: 
-  src: "/astronomy-1866822-1024x684-copy-e1602223009466.jpg"
-  width: 1024
-  height: 684
+header:
+  overlay_image: 'assets/images/astronomy-1866822-1024x684-copy-e1602223009466.jpg'
+layout: single
 ---
 
 In the midst of this widespread disruption of business as usual, it may feel odd to think of the climate crisis. We are entering something new and unprecedented in our lifetimes, and we are rightly focused on adapting to our new situation. But now is a critical time to think about the climate crisis, for a window has appeared.
