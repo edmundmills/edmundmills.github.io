@@ -74,6 +74,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/edmundmmills"
+    - label: "Google Scholar"
+      icon: "ai ai-fw ai-google-scholar-square"
+      url: "https://scholar.google.com/citations?hl=en&user=djelh-cAAAAJ&view_op=list_works"
 
 include: ["_pages"]
 
@@ -127,6 +130,10 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/edmundmmills"
+    - label: "Google Scholar"
+      icon: "ai ai-fw ai-google-scholar-square"
+      url: "https://scholar.google.com/citations?hl=en&user=djelh-cAAAAJ&view_op=list_works"
+
 
 responsive_image:
   template: _includes/responsive-image.html
