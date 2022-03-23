@@ -20,7 +20,7 @@
 
 title: Edmund Mills
 description: >- # this means to ignore newlines until "baseurl:"
-  Writing about Machine Learning and AI alignment
+  Writing about Machine Learning and AI Existential Safety
 baseurl: "" # the subpath of your site, e.g. /blog
 url: 'https://www.edmundmills.com/'
 github_username:  edmundmills
@@ -65,7 +65,7 @@ search: true
 author:
   name: "Edmund Mills"
   avatar: "assets/images/favicons/android-chrome-384x384.png"
-  bio: "AI Alignment Reseach" # Note: Markdown is allowed
+  bio: "AI Existential Safety" # Note: Markdown is allowed
   location: "Bay Area, CA"
   links:
     - label: "GitHub"
