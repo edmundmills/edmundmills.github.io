@@ -1,7 +1,7 @@
 main:
   - title: Portfolio
     url: /portfolio/
-  - title: Machine Learning
-    url: /machine_learning/
   - title: Personal Writing
     url: /personal_writing/
+  - title: Publications
+    url: https://scholar.google.com/citations?hl=en&user=djelh-cAAAAJ&view_op=list_works
